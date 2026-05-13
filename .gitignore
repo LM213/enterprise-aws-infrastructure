@@ -1,0 +1,24 @@
+# Terraform files
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# Variable files
+*.tfvars
+*.tfvars.json
+
+# AWS credentials
+.aws/
+
+# Environment files
+.env
+
+# macOS files
+.DS_Store
+
+# SSH keys
+*.pem
+*.key
+
+# Log files
+*.log
